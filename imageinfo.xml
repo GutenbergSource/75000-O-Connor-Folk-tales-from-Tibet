@@ -1,0 +1,19 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/front.jpg" filesize="271466" filedate="2024-11-26 22:19:46" width="1104px" height="1440px"/>
+<image path="images/frontispiece.jpg" filesize="317633" filedate="2024-11-26 22:19:46" width="1440px" height="1014px"/>
+<image path="images/logo.png" filesize="20533" filedate="2024-11-26 22:19:46" width="341px" height="489px"/>
+<image path="images/p002.jpg" filesize="447797" filedate="2024-11-26 22:19:46" width="1440px" height="1270px"/>
+<image path="images/p022.jpg" filesize="261254" filedate="2024-11-26 22:19:46" width="1440px" height="953px"/>
+<image path="images/p025.jpg" filesize="404900" filedate="2024-11-26 22:19:46" width="1440px" height="1268px"/>
+<image path="images/p035.jpg" filesize="269710" filedate="2024-11-26 22:19:46" width="1440px" height="945px"/>
+<image path="images/p048.jpg" filesize="402771" filedate="2024-11-26 22:19:46" width="1440px" height="1303px"/>
+<image path="images/p058.jpg" filesize="452722" filedate="2024-11-26 22:19:46" width="1440px" height="1267px"/>
+<image path="images/p079.jpg" filesize="456346" filedate="2024-11-26 22:19:46" width="1440px" height="1306px"/>
+<image path="images/p098.jpg" filesize="439029" filedate="2024-11-26 22:19:46" width="1440px" height="1270px"/>
+<image path="images/p121.jpg" filesize="318858" filedate="2024-11-26 22:19:46" width="1440px" height="906px"/>
+<image path="images/p137.jpg" filesize="471309" filedate="2024-11-26 22:19:46" width="1440px" height="1277px"/>
+<image path="images/p145.jpg" filesize="418125" filedate="2024-11-26 22:19:46" width="1440px" height="1164px"/>
+<image path="images/p147.jpg" filesize="480431" filedate="2024-11-26 22:19:46" width="1440px" height="1289px"/>
+<image path="images/qr75000.png" filesize="331" filedate="2024-12-31 06:48:05" width="296px" height="296px"/>
+<image path="images/titlepage.png" filesize="29545" filedate="2024-11-26 22:19:46" width="1020px" height="1440px"/>
+</images>
